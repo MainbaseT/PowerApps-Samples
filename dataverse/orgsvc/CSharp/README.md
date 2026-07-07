@@ -9,4 +9,4 @@ The ./CSharp-NETCore folder contains newer and more modern .NET Core versions of
 
 We are actively upgrading our legacy code samples to the more modern coding style. We recommend you look first in the ./CSharp-NETCore folder for a sample, an then only if an appropriate sample cannot be found, in the CSharp folder. We will be removing the legacy code samples as we upgrade the samples to the modern style.
 
-Plug-in and custom workflow activity samples will continue to be based on .NET Framework 4.6.2 until .NET Framework 4.8 is supported by the Dataverse event framework.
+For information about supported versions of .NET Framework and .NET Core see [Supported customizations for Dataverse](https://learn.microsoft.com/power-apps/developer/data-platform/supported-customizations).
